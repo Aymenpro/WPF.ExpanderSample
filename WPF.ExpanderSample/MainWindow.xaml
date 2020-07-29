@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF.ExpanderSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.ExpanderSample"
+        mc:Ignorable="d"
+        Title="Expander Sample" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Expander Template="{DynamicResource ResourceKey=ExpanderStyle}" FontSize="18" Header="Test" Tag="..\Images\Arrow.png">
+                <StackPanel>
+                    <Button Content="Bank"/>
+                    <Button Content="Bank"/>
+                    <Button Content="Bank"/>
+                </StackPanel>
+            </Expander>
+        </StackPanel>
+
+    </Grid>
+</Window>

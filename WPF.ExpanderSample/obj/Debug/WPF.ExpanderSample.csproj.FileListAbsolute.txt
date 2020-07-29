@@ -1,0 +1,17 @@
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\bin\Debug\WPF.ExpanderSample.exe
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\bin\Debug\WPF.ExpanderSample.pdb
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\MainWindow.g.cs
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\App.g.cs
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample_MarkupCompile.cache
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample_MarkupCompile.lref
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\MainWindow.baml
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.g.resources
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.Properties.Resources.resources
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.csproj.GenerateResource.cache
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.csproj.CoreCompileInputs.cache
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.exe
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.pdb
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\App.baml
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\Resources\ExpanderStyle.baml
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Own Samples\WPF.ExpanderSample\WPF.ExpanderSample\obj\Debug\WPF.ExpanderSample.csprojAssemblyReference.cache
